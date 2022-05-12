@@ -1,0 +1,32 @@
+body{
+    background-image: url(https://th.bing.com/th/id/R.f3ce75af5e1f9dce64bcf0d34d00a4a0?rik=TxEriLiuhaOUiA&riu=http%3a%2f%2fhdqwalls.com%2fdownload%2fnature-background-1920x1080.jpg&ehk=ICGyC%2f%2feS7BkQqlhRIMLI4Sh11U%2bT6AhNzEtJqyWpYI%3d&risl=&pid=ImgRaw&r=0);
+    
+}
+
+
+.centered-heading{
+    position: absolute;
+    font-weight: bold;
+    top: 40%;
+    left: 36%;
+    color: white;
+    font-size: 4em;
+}
+
+.centered{
+    position: absolute;
+    top: 53%;
+    left: 30%;
+    color: white;
+    font-size: 1.5em;
+}
+
+#continue{
+    position: absolute;
+    top: 64%;
+    left: 45%;
+}
+
+
+
+
